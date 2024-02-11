@@ -1,0 +1,41 @@
+git clone https://github.com/professorbossini/20232_fatec_ipi_poo_jogo_cacador.git .
+
+git remote set-url origin https://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@github.com/joaopedromf/20232_fatec_ipi_poo_jogo_cacador_P1.git
+
+git config --local user.name "João Pedro"
+
+git config --local user.email joao.forte@fatec.sp.gov.br
+
+git add *
+
+git commit (inicializando repositorio)
+
+git push origin main
+
+git add *
+
+git commit (morte do personagem)
+
+git add *
+
+git commit (estoque de itens)
+
+git add *
+
+git commit (refeicao condicional)
+
+git add *
+
+git commit (novo personagem)
+
+git add *
+
+git commit (batalha de personagem)
+
+git tag --list
+
+git tag -a v2.0.0 -m entrega02: batalha entre dois personagens
+
+git push origin main
+
+git push origin --tags
